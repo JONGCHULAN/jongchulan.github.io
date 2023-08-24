@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" 전체적인 블로그의 색감을 정하는 값입니다.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "AJCH BLOG"
+locale                   : "ko-KR"        # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
+title                    : "AJCH BLOG"    # 사이트 탭에서 보이는 이름입니다.
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JONG CHUL AN"
-description              : "An amazing website."
-url                      : "https://jongchulan.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+subtitle                 : "Version 1.0"  # 화면 title 하단에 있는 소제목입니다.
+name                     : "안종철(AN JONG CHUL)" # 화면 하단 영역의 이름입니다.
+description              : ""
+url                      : "https://jongchulan.github.io"  # 현재의 블로그 url
+baseurl                  : # the subpath of your site, e.g. "/blog" 폴백(예기치 못한 오류)일 때, 연결되는 url
+repository               : "https://github.com/JONGCHULAN/jongchulan.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes" 
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 폴백일 때 보일 이미지입니다.
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 화면에 보여지는 logo 이미지입니다.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "안종철"  # 이름 영역입니다.
   avatar           : "image/profile/h_img.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 사진 경로입니다.
-  bio              : "안종철 블로그<br>2023.08.24 **OPEN**"  # biography의 약칭으로 자기 소개를 적으시면 됩니다. 줄바꿈은 <br>, 굵은 글씨는 **글씨** 로 표시하면 됩니다.
+  bio              : "**2023.08.24** OPEN"  # biography의 약칭으로 자기 소개를 적으시면 됩니다. 줄바꿈은 <br>, 굵은 글씨는 **글씨** 로 표시하면 됩니다.
   location         : "Republic of Korea"  # 지역
   email            :
   links:

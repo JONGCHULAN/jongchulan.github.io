@@ -287,16 +287,16 @@ defaults:
       sidebar:
         nav: "docs"
   # _posts
-  #- scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: post
-  #    author_profile: true
-  #   read_time: true
-  #    comments: # true
-  #    share: true
-  #    related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: true
+     read_time: true
+      comments: # true
+      share: true
+      related: true
 
 # Sidebar Custom
 #sidebar:

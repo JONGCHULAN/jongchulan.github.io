@@ -290,3 +290,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Sidebar Custom
+sidebar:
+  - title: "Title"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."

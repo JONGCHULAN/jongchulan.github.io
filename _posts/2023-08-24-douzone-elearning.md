@@ -1,5 +1,8 @@
 ---
 layout: single
+author_profile: true
+sidebar:
+  nav: "main"
 title:  "DOUZONE e-learning 정답 확인"
 ---
 

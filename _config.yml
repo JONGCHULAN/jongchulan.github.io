@@ -281,7 +281,7 @@ compress_html:
 defaults:
   # _docs
   - scope:
-      path: ""
+      path: "docs"
       type: docs
     values:
       sidebar:

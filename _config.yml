@@ -279,21 +279,28 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _docs
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
-      layout: post
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      sidebar:
+        nav: "docs"
+  # _posts
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: post
+  #    author_profile: true
+  #   read_time: true
+  #    comments: # true
+  #    share: true
+  #    related: true
 
 # Sidebar Custom
-sidebar:
-  - title: "Title"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+#sidebar:
+#  - title: "Title"
+#    text: "Some text here."
+#  - title: "Another Title"
+#    text: "More text here."
